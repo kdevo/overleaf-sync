@@ -1,0 +1,2 @@
+# Put the copied cURL string in bash format as described in README and replace the line below with it:
+echo -e "ATTENTION: Please configure as described in the README and remove this line">&2 && exit 1
